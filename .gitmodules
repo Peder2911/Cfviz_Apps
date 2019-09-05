@@ -1,0 +1,6 @@
+[submodule "Cfviz_Ged"]
+	path = Cfviz_Ged
+	url = http://github.com/peder2911/Cfviz_Ged
+[submodule "Cfviz_Timeline"]
+	path = Cfviz_Timeline
+	url = http://github.com/peder2911/Cfviz_Timeline
